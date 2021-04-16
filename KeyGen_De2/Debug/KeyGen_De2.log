@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Nguyen Khang\source\repos\KTMTHN\KeyGen_De2\KeyGen_De2\MyForm.h(22,38): warning C4677: 'calculateMachine': signature of non-private member contains assembly private type 'calculateMarcoGym'
+C:\Users\Nguyen Khang\source\repos\KTMTHN\KeyGen_De2\KeyGen_De2\calculateMarcoGym.h(35): message : see declaration of 'calculateMarcoGym'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  KeyGen_De2.vcxproj -> C:\Users\Nguyen Khang\source\repos\KTMTHN\KeyGen_De2\Debug\KeyGen_De2.exe
